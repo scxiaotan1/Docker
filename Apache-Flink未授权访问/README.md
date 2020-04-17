@@ -14,7 +14,7 @@ netstat -tlnp      #可以看到8081端口启用了
 ifconfig      #查看当前IP地址 比如地址为172.17.0.2  可以访问http://172.17.0.2:8081
 
 
-# 漏洞复现
+# Apache-Flink漏洞复现
 
 Kali linux 下运行msf
 
