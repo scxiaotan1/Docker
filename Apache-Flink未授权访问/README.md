@@ -16,7 +16,7 @@ ifconfig      #查看当前IP地址 比如地址为172.17.0.2  可以访问http:
 
 # Apache-Flink漏洞复现
 
-Kali linux 下运行msf
+Kali linux 下运行msfvenom
 
 生成payload
 
