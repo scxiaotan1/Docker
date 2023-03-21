@@ -1,4 +1,3 @@
-java  -noverify -javaagent:BurpSuiteLoader.jar -jar BurpSuiteLoader.jar
+java  -noverify -javaagent:BurpLoaderKeygen.jar -jar BurpLoaderKeygen.jar
 @echo off
-f:
 cmd /k "java -jar  BurpLoaderKeygen.jar"
